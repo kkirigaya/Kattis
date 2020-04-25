@@ -1,7 +1,7 @@
 Kattis
 ======
 
-**Note: This repository has been archived due to being merged into [Coding\_Challenges\_Py](https://github.com/kkirigaya/Coding_Challenges_Py/).**
+**Note: This repository has been archived due to being merged into [Coding-Challenges-Python](https://github.com/kkirigaya/Coding-Challenges-Python/).**
 
 My solutions to various problems on [Kattis](https://open.kattis.com).
 
